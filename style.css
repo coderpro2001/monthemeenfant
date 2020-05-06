@@ -1,0 +1,9 @@
+/**
+    Template:     twentytwenty
+    NOTE: C'EST LE NOM DU DOSSIER DU THEME PARENT
+  */
+
+/* JE PEUX AJOUTER MON CODE CSS EN PLUS DE CELUI DU THEME PARENT */
+h1.site-title {
+    border:6px solid orange;
+}
